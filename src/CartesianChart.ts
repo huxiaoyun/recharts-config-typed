@@ -5,6 +5,7 @@ import Legend from './Component/Legend';
 import MarkLine from './Component/MarkLine';
 import MarkPoint from './Component/MarkPoint';
 import Series from './Component/Series';
+import Zoom from './Component/Zoom';
 import { Chart } from './Component/Chart';
 
 interface CartesianChart {
@@ -17,5 +18,8 @@ interface CartesianChart {
   tooltip?: Tooltip,
   brush?: Brush,
   markLine?: MarkLine[],
-  markPoint?: MarkPoint[]
+  markPoint?: MarkPoint[],
+  zoom?: Zoom,
 }
+
+export default CartesianChart;

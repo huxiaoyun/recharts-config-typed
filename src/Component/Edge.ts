@@ -14,7 +14,15 @@ interface Edge {
   /**
 	 * 填充色
 	 */
-  fill: string,
+  fill?: string,
+  /**
+	 * 关系分类
+	 */
+  type?: string,
+  /**
+	 * 形状
+	 */
+  shape?: string,
 }
 
 export default Edge;

@@ -1,17 +1,17 @@
 {
-    "name": "recharts-config-typed",
-    "version": "0.0.1",
-    "description": "the type definitions of recharts config",
-    "main": "index.js",
-    "type": "index.ts",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/recharts/recharts-config-typed.git"
-    },
-    "author": "arcthur",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/recharts/recharts-config-typed/issues"
-    },
-    "homepage": "https://github.com/recharts/recharts-config-typed#readme"
+  "name": "recharts-config-typed",
+  "version": "0.0.2",
+  "description": "the type definitions of recharts config",
+  "main": "index.js",
+  "type": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recharts/recharts-config-typed.git"
+  },
+  "author": "arcthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recharts/recharts-config-typed/issues"
+  },
+  "homepage": "https://github.com/recharts/recharts-config-typed#readme"
 }

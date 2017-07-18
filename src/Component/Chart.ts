@@ -45,11 +45,11 @@ interface Chart {
   /**
 	 * 是否开启动画
 	 */
-  animate: boolean,
+  animate?: boolean,
   /**
 	 * 是否自适应
 	 */
-  forceFit: boolean,
+  forceFit?: boolean,
   /**
 	 * 背景
 	 */
