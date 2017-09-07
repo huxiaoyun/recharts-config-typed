@@ -48,7 +48,7 @@ interface Legend {
   /**
    * 数据 Key
    */
-  datakey: string,
+  dataKey: string,
   /**
    * 名字
    */
