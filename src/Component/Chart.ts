@@ -50,6 +50,10 @@ interface Chart {
 	 * 是否自适应
 	 */
   forceFit?: boolean,
+  /** 
+   * 是否旋转 , 适用于 柱状图、条形图这类可旋转的图形
+   */
+  transpose?: boolean;
   /**
 	 * 背景
 	 */
